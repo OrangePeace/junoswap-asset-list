@@ -319,6 +319,7 @@
     {
       "chain_id": "juno-1",
       "decimals": "3",
+      
       "denom": "nmd",
       "id": "",
       "logoURI": "",
@@ -331,6 +332,7 @@
         "cw20"
       ],
       "token_address": "juno1mjxs0lgkzawx99s8yzsx97v9s5jlrgvjlyv0mluspgq90hm59laqewh7af"
+
     }
   ],
   "version": {
